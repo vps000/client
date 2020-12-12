@@ -1,1 +1,10 @@
-https://www.sogou.com/
+{
+    "api": [
+        "https://raw.githubusercontent.com/vps000/client/main/latest.json",
+        "https://www.vps000.org/latest.json",
+        "https://www.vps000.org/latest2.json"
+    ],
+    "host": [
+        "https://www.vps000.org/site/login"
+    ]
+}
