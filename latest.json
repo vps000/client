@@ -1,10 +1,9 @@
 {
     "api": [
-        "https://raw.githubusercontent.com/vps000/client/main/latest.json",
-        "https://www.vps000.org/latest.json",
-        "https://www.vps000.org/latest2.json"
+        "https://cdn.jsdelivr.net/gh/vps000/client@master/latest.json",
+        "https://www.vps000.org/latest.json"
     ],
     "host": [
-        "https://www.vps000.org/site/login"
+        "https://www.vps000.org/site/login?source=client"
     ]
 }
