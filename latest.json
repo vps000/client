@@ -1,7 +1,8 @@
 {
     "api": [
         "https://cdn.jsdelivr.net/gh/vps000/client@master/latest.json",
-        "https://www.vps000.org/latest.json"
+        "https://www.vps000.org/latest.json",
+        "https://bitbucket.org/vps000/client/raw/HEAD/latest.json"
     ],
     "host": [
         "https://www.vps000.org/site/login?source=client"
